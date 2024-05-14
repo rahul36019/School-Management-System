@@ -1,0 +1,21 @@
+school managemnet System
+
+so what are we loking for 
+
+1->keep track of total fee
+2->fee already paid
+3->teacher salary
+
+teacher
+{
+    id ,name, salary
+    
+}
+
+student{
+    id, name, grade, fee paid,  fee due,  total fee
+}
+
+school{
+    teacher ,student ,total earning  ,total expance
+}
